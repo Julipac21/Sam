@@ -1,9 +1,8 @@
 body{
     text-align: center;
      font-family: 'Arial';
-      background: lightskyblue;
-      color: darkblue;
-      background-image: https://www.lifeinthefingerlakes.com/wp-content/uploads/2019/10/finger-lakes-sunset-690x394.jpg";>
+      background-image: linear-gradient( rgba(0, 0, 255, 0.669), rgba(128, 0, 128, 0.659));
+      color: rgb(227, 145, 248);
 }
 img {
     width: 200px;
